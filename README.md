@@ -2,6 +2,10 @@
 
 It is an Simple Todo app made with angular to test my skills in angular and Typescript.
 
+# Demo
+
+[Demo](https://ckr-harsh.github.io/Todo_Angular/)
+
 ## Installation
 
 [node.js](http://nodejs.org/download/) is required to get `npm`.

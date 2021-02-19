@@ -27,26 +27,17 @@ h2 {
   color: rgb(255, 255, 255);
 }
 span {
-  padding: 5px 10px;
+  padding: 8px 10px;
   color: royalblue;
+  margin-top: 4px;
+}
+button {
+  margin-bottom: 3px;
 }
 
 .one {
   display: inline;
   padding-right: 10px;
-}
-#thru {
-  text-decoration: line-through;
-  padding: 5px 10px;
-  color: royalblue;
-}
-#normal {
-  padding: 5px 10px;
-  color: royalblue;
-}
-ul {
-  list-style-type: disc;
-  display: inline;
 }
 
 @media (max-width: 600px) {

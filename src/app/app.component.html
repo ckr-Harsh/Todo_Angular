@@ -13,16 +13,11 @@
 
 <div class="todos"
    *ngFor='let item of todos; let id=index;'>
-   
-   <ul>
-     <li>
     <span id="break" class={{yes}} >
      {{item.todo}}
     </span>
-     <button mat-stroked-button (click)='remove(id)'>Delete</button>
-    </li>
-    </ul>
-    
+     <button mat-button (click)='remove(id)'>Delete</button>
 </div>
+
 </div>
 </div>
